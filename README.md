@@ -1,0 +1,1 @@
+# Speech-To-Text-Recognition-Using-Whisper-and-Web-Assembly
